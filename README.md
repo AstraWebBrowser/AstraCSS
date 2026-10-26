@@ -1,0 +1,2 @@
+# AstraCSS
+AstraCSS is a CSS transpiler that transpiles modern CSS into a format compatible with older browsers (circa 2013). It is designed to run as an integration into the Astra Browser, but can be run standalone.
